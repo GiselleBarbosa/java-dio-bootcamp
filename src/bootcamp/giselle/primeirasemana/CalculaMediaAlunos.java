@@ -1,3 +1,5 @@
+package bootcamp.giselle.primeirasemana;
+
 public class CalculaMediaAlunos {
     public static void main(String[] args) {
         int mediaFinal = 3;

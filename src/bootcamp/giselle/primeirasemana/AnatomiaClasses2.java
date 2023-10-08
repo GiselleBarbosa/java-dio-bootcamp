@@ -1,3 +1,5 @@
+package bootcamp.giselle.primeirasemana;
+
 public class AnatomiaClasses2 {
 
     public static void main(String[] args) {
