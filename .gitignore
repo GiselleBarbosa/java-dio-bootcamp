@@ -27,3 +27,12 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Others ###
+.package-lock.json
+/node_modules
+.Project_Default.xml
+.package.json
+.idea
+package.json
+package-lock.json
