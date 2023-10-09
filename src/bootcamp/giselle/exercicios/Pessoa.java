@@ -1,8 +1,8 @@
 package bootcamp.giselle.exercicios;
 
 public class Pessoa {
-    String nome;
-    int idade;
-    String email;
+    public String nome;
+    public int idade;
+    public String email;
 
 }
