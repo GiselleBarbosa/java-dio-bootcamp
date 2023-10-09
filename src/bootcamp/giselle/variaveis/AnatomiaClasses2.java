@@ -1,4 +1,4 @@
-package bootcamp.giselle.primeirasemana;
+package bootcamp.giselle.variaveis;
 
 public class AnatomiaClasses2 {
 

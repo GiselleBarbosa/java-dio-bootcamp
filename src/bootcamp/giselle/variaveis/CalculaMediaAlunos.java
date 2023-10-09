@@ -1,4 +1,4 @@
-package bootcamp.giselle.primeirasemana;
+package bootcamp.giselle.variaveis;
 
 public class CalculaMediaAlunos {
     public static void main(String[] args) {

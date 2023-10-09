@@ -1,4 +1,4 @@
-package bootcamp.giselle.primeirasemana;
+package bootcamp.giselle.variaveis;
 
 public class JavaHelloWorld {
     public static void main(String[] args) {

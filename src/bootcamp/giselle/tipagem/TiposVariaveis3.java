@@ -1,4 +1,4 @@
-package bootcamp.giselle.segundasemana;
+package bootcamp.giselle.tipagem;
 
 public class TiposVariaveis3 {
     public static void main(String[] args) {
