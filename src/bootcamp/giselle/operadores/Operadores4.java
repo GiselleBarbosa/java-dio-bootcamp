@@ -1,6 +1,6 @@
 package bootcamp.giselle.operadores;
 
-public class operadores4 {
+public class Operadores4 {
     // incremetar e decrementar
     public static void main(String[] args) {
         int numero = 5;

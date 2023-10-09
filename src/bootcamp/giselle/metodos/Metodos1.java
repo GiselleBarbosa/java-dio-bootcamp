@@ -1,5 +1,5 @@
 package bootcamp.giselle.metodos;
-public class metodos1 {
+public class Metodos1 {
     // CRITERIOS DE NOMEACAO DE METODOS - CONVECÕES
 
     /*  - deve ser nomeado como verbo
